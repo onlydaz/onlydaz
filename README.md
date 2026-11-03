@@ -13,3 +13,7 @@ I'm Nguyen Duy Dat, an IT student specializing in Software Engineering. I enjoy 
 ## ✉️ Contact Me
 
 - **Email:** [nguyenduydat.1300@gmail.com](mailto:nguyenduydat.1300@gmail.com)
+
+## 🔥 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=onlydaz&theme=github-dark-blue&hide_border=true)
